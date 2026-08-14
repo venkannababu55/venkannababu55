@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 
 
 <a href="mailto:venkannababu0719@gmail.com">
@@ -45,9 +42,9 @@
 
 🎓 Computer Science Engineering student passionate about technology, programming and data.
 
-🤖 Exploring **Artificial Intelligence, Machine Learning and Deep Learning**.
+🤖 Exploring **, Machine Learning, Deep Learning, LLM's and Artificial Intelligence**.
 
-📊 Interested in **Data Science, Data Analytics and Data Visualization**.
+📊 Interested in **Data Science,AI, Agentic-AI**.
 
 🐍 Working with **Python** for programming, analytics and machine learning.
 
@@ -102,9 +99,7 @@
 
 - Python
 - C++
-- Java
 - Object-Oriented Programming
-- Problem Solving
 - Data Structures
 
 </td>
@@ -113,11 +108,10 @@
 
 ### 🌱 Currently Improving
 
-- Data Structures & Algorithms
+- Data Structures & Algorithms\
+-  Python
 - Machine Learning
 - Deep Learning
-- SQL
-- Python
 - AI Engineering
 
 </td>
@@ -194,162 +188,3 @@
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🏥 Hospital Management System
-
-A management application designed to handle hospital operations.
-
-### 🛠️ Technologies
-
-`C++` `OOP` `File Handling`
-
-### ✨ Features
-
-- Patient management
-- Doctor management
-- Appointment management
-- Record handling
-- Menu-driven interface
-
-<a href="https://github.com/venkannababu55/Hospital-Management-System">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-## ✈️ Airline Reservation System
-
-A reservation system for managing airline bookings.
-
-### 🛠️ Technologies
-
-`C++` `OOP` `File Handling`
-
-### ✨ Features
-
-- Flight management
-- Passenger booking
-- Ticket reservation
-- Cancellation
-- Record management
-
-<a href="https://github.com/venkannababu55/Airline-Reservation-System">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🎰 Slot Machine Game
-
-An interactive console-based game developed using C++.
-
-### 🛠️ Concepts
-
-`C++` `Loops` `Functions` `Conditions` `Random Numbers`
-
-<a href="https://github.com/venkannababu55/Slot-Machine-Game">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI & Data Science
-
-A collection of projects exploring:
-
-- Machine Learning
-- Data Analysis
-- Data Visualization
-- Artificial Intelligence
-- Python
-
-<a href="https://github.com/venkannababu55?tab=repositories">
-
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🧠 Currently Learning
-
-<div align="center">
-
-| 🧠 Area | 📚 Focus |
-|---|---|
-| 🤖 Artificial Intelligence | AI Fundamentals |
-| 🧠 Machine Learning | Supervised & Unsupervised Learning |
-| 📚 Deep Learning | Neural Networks |
-| 📊 Data Science | Python, Pandas, NumPy |
-| 🗄️ Databases | SQL & DBMS |
-| 💻 DSA | Algorithms & Problem Solving |
-| 📈 Visualization | Power BI & Excel |
-
-</div>
-
----
-
-# 📈 My Learning Journey
-
-<div align="center">
-
-```text
-              💻 PROGRAMMING
-                     │
-                     ▼
-             🧠 DATA STRUCTURES
-                     │
-                     ▼
-                 🐍 PYTHON
-                     │
-                     ▼
-                  🗄️ SQL
-                     │
-                     ▼
-              📊 DATA ANALYTICS
-                     │
-                     ▼
-             🤖 MACHINE LEARNING
-                     │
-                     ▼
-              🧠 DEEP LEARNING
-                     │
-                     ▼
-         🚀 ARTIFICIAL INTELLIGENCE
-                     │
-                     ▼
-          🌎 REAL-WORLD PROJECTS
