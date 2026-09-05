@@ -8,7 +8,7 @@
 
 ### 💻 Computer Science Engineering Student
 ### 🤖 AI & Machine Learning Enthusiast
-### 📊 Data Science Explorer
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer;AI+%26+Deep+Learning+Learner;Problem+Solver;Building+Real-World+Projects;Always+Learning+%F0%9F%94%A5" />
 
@@ -25,8 +25,6 @@
 
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=venkannababu55&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
