@@ -24,10 +24,6 @@
 
 
 
-<a href="mailto:venkannababu0719@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=venkannababu55&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
