@@ -32,7 +32,6 @@
 
 # 🧑‍💻 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/venkannababu55/venkannababu55/output/github-contribution-grid-snake-dark.svg"/>
 
 🎓 Computer Science Engineering student passionate about technology, programming and data.
 
